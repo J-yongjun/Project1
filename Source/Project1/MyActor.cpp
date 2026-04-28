@@ -74,4 +74,5 @@ void AMyActor::Turn()
 	}
 	UE_LOG(LogTemp, Warning, TEXT("Rotation = %s"), *CurrentRotation.ToString());
 	// UE_LOG(LogTemp, Warning, TEXT("Rotation = %s"), *CurrentRocation.ToString());
+	// test line
 }
